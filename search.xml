@@ -1,53 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>在2021年，我看过的电影</title>
-      <link href="/Movies/2021/d6e29f59be16/"/>
-      <url>/Movies/2021/d6e29f59be16/</url>
-      
-        <content type="html"><![CDATA[<blockquote><p>时光记忆</p></blockquote><h1 id="飞屋环游记"><a href="#飞屋环游记" class="headerlink" title="飞屋环游记"></a>飞屋环游记</h1><p>跟你在一起度过的时光就是我渴望的冒险之旅。</p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>在2021年，我看过的电影</title>
+    <url>/Movies/2021/d6e29f59be16/</url>
+    <content><![CDATA[<blockquote>
+<p>时光记忆</p>
+</blockquote>
+<h1 id="飞屋环游记"><a href="#飞屋环游记" class="headerlink" title="飞屋环游记"></a>飞屋环游记</h1><p>跟你在一起度过的时光就是我渴望的冒险之旅。</p>
+]]></content>
       <categories>
-          
-          <category> Movies </category>
-          
+        <category>Movies</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> Movies </tag>
-            
-            <tag> Me </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>My first blog</title>
-      <link href="/others/2021/61dc50a92db2/"/>
-      <url>/others/2021/61dc50a92db2/</url>
-      
-        <content type="html"><![CDATA[<blockquote><p>未来可期</p></blockquote>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> Me </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>Movies</tag>
+        <tag>Me</tag>
+      </tags>
+  </entry>
 </search>
