@@ -1,32 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>在2021年，我看过的电影</title>
-      <link href="/Movies/2021/d6e29f59be16/"/>
-      <url>/Movies/2021/d6e29f59be16/</url>
-      
-        <content type="html"><![CDATA[<h1 id="飞屋环游记"><a href="#飞屋环游记" class="headerlink" title="飞屋环游记"></a><a href="https://movie.douban.com/subject/2129039/">飞屋环游记</a></h1><p><img src="/Movies/2021/d6e29f59be16/p2363116942.webp" alt="Up"></p><center>跟你在一起度过的时光就是我渴望的冒险之旅。</center><span id="more"></span><h1 id="火口的两人"><a href="#火口的两人" class="headerlink" title="火口的两人"></a><a href="https://movie.douban.com/subject/30405087/">火口的两人</a></h1><p><img src="/Movies/2021/d6e29f59be16/p2556419282.webp" alt="火口的两人"></p><center>等待世界末日来临之时，珍惜彼此的片刻。</center>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>在2021年，我看过的电影</title>
+    <url>/Movies/2021/d6e29f59be16/</url>
+    <content><![CDATA[<h1 id="飞屋环游记"><a href="#飞屋环游记" class="headerlink" title="飞屋环游记"></a><a href="https://movie.douban.com/subject/2129039/">飞屋环游记</a></h1><p><img src="/Movies/2021/d6e29f59be16/p2363116942.webp" alt="Up"></p>
+<center>跟你在一起度过的时光就是我渴望的冒险之旅。</center>
+
+<span id="more"></span>
+
+<h1 id="火口的两人"><a href="#火口的两人" class="headerlink" title="火口的两人"></a><a href="https://movie.douban.com/subject/30405087/">火口的两人</a></h1><p><img src="/Movies/2021/d6e29f59be16/p2556419282.webp" alt="火口的两人"></p>
+<center>等待世界末日来临之时，珍惜彼此的片刻。</center>
+
+<h1 id="男与女"><a href="#男与女" class="headerlink" title="男与女"></a><a href="https://movie.douban.com/subject/25835285/">男与女</a></h1><p><img src="/Movies/2021/d6e29f59be16/p2308184818.webp" alt="男与女"></p>
+<center>我喜欢你，但我不能跟你在一起。</center>
+
+<h1 id="风声"><a href="#风声" class="headerlink" title="风声"></a><a href="https://movie.douban.com/subject/3734112/">风声</a></h1><p><img src="/Movies/2021/d6e29f59be16/p1599059779.webp" alt="风声"></p>
+<center>“我要你活着”</center>
+
+]]></content>
       <categories>
-          
-          <category> Movies </category>
-          
+        <category>Movies</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> Movies </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>Movies</tag>
+      </tags>
+  </entry>
 </search>
