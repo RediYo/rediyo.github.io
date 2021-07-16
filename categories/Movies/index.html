@@ -6,7 +6,7 @@
 <meta name="theme-color" content="#222">
 <meta name="generator" content="Hexo 5.4.0">
   <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-rediyo.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.ico">
   <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-rediyo.ico">
   <link rel="mask-icon" href="/images/logo.svg" color="#222">
 
@@ -139,7 +139,7 @@
   </li>
         <li class="menu-item menu-item-resources">
 
-    <a href="/resources" rel="section"><i class="fa fa-download fa-fw"></i>资源</a>
+    <a href="/resources/" rel="section"><i class="fa fa-download fa-fw"></i>资源</a>
 
   </li>
   </ul>
@@ -265,6 +265,8 @@
 
       <div class="site-overview-wrap sidebar-panel">
         <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="RediYo"
+      src="/images/avatar.jpg">
   <p class="site-author-name" itemprop="name">RediYo</p>
   <div class="site-description" itemprop="description">A blog website about individual learning, thinking and using</div>
 </div>
@@ -301,16 +303,6 @@
   </div>
 
 
-  <div class="links-of-blogroll motion-element">
-    <div class="links-of-blogroll-title"><i class="fa fa-link fa-fw"></i>
-      Links
-    </div>
-    <ul class="links-of-blogroll-list">
-        <li class="links-of-blogroll-item">
-          <a href="http://rediyo.cn/" title="http:&#x2F;&#x2F;rediyo.cn" rel="noopener" target="_blank">Title</a>
-        </li>
-    </ul>
-  </div>
 
       </div>
 
@@ -390,6 +382,35 @@
   
 
   
+
+
+<script>
+NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
+  NexT.utils.getScript('//unpkg.com/valine/dist/Valine.min.js', () => {
+    var GUEST = ['nick', 'mail', 'link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item => {
+      return GUEST.includes(item);
+    });
+    new Valine({
+      el         : '#valine-comments',
+      verify     : false,
+      notify     : false,
+      appId      : 'z2mxxhWtUvU9Bb56kszXYD9z-gzGzoHsz',
+      appKey     : 'N7ihfIRoMRMS7YQkPJ5mrovR',
+      placeholder: "Just write here",
+      avatar     : 'mm',
+      meta       : guest,
+      pageSize   : '10' || 10,
+      visitor    : true,
+      lang       : '' || 'zh-cn',
+      path       : location.pathname,
+      recordIP   : false,
+      serverURLs : ''
+    });
+  }, window.Valine);
+});
+</script>
 
 </body>
 </html>
