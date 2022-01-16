@@ -71,13 +71,6 @@
     
   </url>
   
-  <url>
-    <loc>https://www.rediyo.cn/loves/</loc>
-    
-    <lastmod>2021-06-17</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>https://www.rediyo.cn/</loc>
@@ -102,6 +95,13 @@
   </url>
   
   <url>
+    <loc>https://www.rediyo.cn/tags/Hexo/</loc>
+    <lastmod>2022-01-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.rediyo.cn/tags/%E7%94%B5%E5%BD%B1/</loc>
     <lastmod>2022-01-16</lastmod>
     <changefreq>daily</changefreq>
@@ -110,13 +110,6 @@
   
   <url>
     <loc>https://www.rediyo.cn/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
-    <lastmod>2022-01-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.rediyo.cn/tags/Hexo/</loc>
     <lastmod>2022-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -132,6 +125,13 @@
   </url>
   
   <url>
+    <loc>https://www.rediyo.cn/categories/%E6%97%A5%E5%BF%97/</loc>
+    <lastmod>2022-01-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.rediyo.cn/categories/%E5%BD%B1%E8%A7%86/</loc>
     <lastmod>2022-01-16</lastmod>
     <changefreq>daily</changefreq>
@@ -140,13 +140,6 @@
   
   <url>
     <loc>https://www.rediyo.cn/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
-    <lastmod>2022-01-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.rediyo.cn/categories/%E6%97%A5%E5%BF%97/</loc>
     <lastmod>2022-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
