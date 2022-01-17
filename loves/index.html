@@ -53,8 +53,7 @@
         </div>
     
     <script>
-   		var audio = document.getElementById("bgMusic");
-  		audio.play();
+   		
 	</script>
 
     <script>
@@ -114,6 +113,10 @@
         var hold = 1;
 
         canvas.click(function(e) {
+        
+        	var audio = document.getElementById("bgMusic");
+  		audio.play();
+  		
             var offset = canvas.offset(), x, y;
             x = e.pageX - offset.left;
             y = e.pageY - offset.top;
@@ -135,6 +138,7 @@
             while (hold) {
                 $await(Jscex.Async.sleep(10));
             }
+            
             while (seed.canScale()) {
                 seed.scale(0.95);
                 $await(Jscex.Async.sleep(10));
