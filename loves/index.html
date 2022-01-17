@@ -13,13 +13,6 @@
         <script type="text/javascript" src="./Love_files/jscex-async-powerpack.min.js"></script>
         <script type="text/javascript" src="./Love_files/functions.js" charset="utf-8"></script>
         <script type="text/javascript" src="./Love_files/love.js" charset="utf-8"></script>
-	<script>
-	       var canvas = document.getElementById("canvas");
-   		var audio = document.getElementById("bgMusic");
-   		canvas.onclick=function(){
-  			audio.play();
-		}
-	</script>
     </head>
     <body>
         <div id="main">
@@ -60,7 +53,12 @@
         </div>
     
     <script>
-    </script>
+	       var canvas = document.getElementById("canvas");
+   		canvas.onclick=function(){
+   			var audio = document.getElementById("bgMusic");
+  			audio.play();
+		}
+	</script>
 
     <script>
     (function(){
