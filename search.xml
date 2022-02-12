@@ -1,189 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>在2021年，我看过的电影</title>
-    <url>/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/</url>
-    <content><![CDATA[<h1 id="飞屋环游记"><a href="#飞屋环游记" class="headerlink" title="飞屋环游记"></a><a href="https://movie.douban.com/subject/2129039/">飞屋环游记</a></h1><p><img src="/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/p2363116942.webp" alt="Up"><br>跟你在一起度过的时光就是我渴望的冒险之旅。</p>
-<span id="more"></span>
-
-<h1 id="火口的两人"><a href="#火口的两人" class="headerlink" title="火口的两人"></a><a href="https://movie.douban.com/subject/30405087/">火口的两人</a></h1><p><img src="/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/p2556419282.webp" alt="火口的两人"><br>等待世界末日来临之时，珍惜彼此的片刻。</p>
-<h1 id="男与女"><a href="#男与女" class="headerlink" title="男与女"></a><a href="https://movie.douban.com/subject/25835285/">男与女</a></h1><p><img src="/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/p2308184818.webp" alt="男与女"><br>我喜欢你，但我不能跟你在一起。</p>
-<h1 id="风声"><a href="#风声" class="headerlink" title="风声"></a><a href="https://movie.douban.com/subject/3734112/">风声</a></h1><p><img src="/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/p1599059779.webp" alt="风声"><br>“我要你活着”</p>
-<h1 id="致命ID"><a href="#致命ID" class="headerlink" title="致命ID"></a><a href="https://movie.douban.com/subject/1297192/">致命ID</a></h1><p><img src="/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/p2558364386.webp" alt="致命ID"><br>“你是谁？”（沉默)</p>
-<h1 id="一天"><a href="#一天" class="headerlink" title="一天"></a><a href="https://movie.douban.com/subject/4191644/">一天</a></h1><p><img src="/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/p1103205323.webp" alt="One Day"><br>人生不过就是在那一天，有你的那一天</p>
-<h1 id="怒火·重案"><a href="#怒火·重案" class="headerlink" title="怒火·重案"></a>怒火·重案</h1><p><img src="/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/p2673412189.webp" alt="重案"><br>如果你是我，我们的结局会不会反过来。</p>
-<h1 id="叶问4：完结篇"><a href="#叶问4：完结篇" class="headerlink" title="叶问4：完结篇"></a>叶问4：完结篇</h1><p><img src="/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/p2577578115.webp" alt="叶问4"><br>平淡才是真，父母与子女之间的情感盛宴。</p>
-<h1 id="神偷奶爸3"><a href="#神偷奶爸3" class="headerlink" title="神偷奶爸3"></a>神偷奶爸3</h1><p><img src="/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/p2469070974.webp" alt="img"></p>
-<h1 id="寻龙传说"><a href="#寻龙传说" class="headerlink" title="寻龙传说"></a>寻龙传说</h1><p><img src="/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/p2633531206.webp" alt="img"><br>我相信他们，他们也相信我。</p>
-<h1 id="万能钥匙"><a href="#万能钥匙" class="headerlink" title="万能钥匙"></a>万能钥匙</h1><p>2021-12-31 晚<br><img src="/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/p810384382.webp" alt="img"><br>只要你相信，那就是真的。</p>
-]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>HiveQL学习</title>
+      <link href="/Hive/2021/8bc21989f1a1/"/>
+      <url>/Hive/2021/8bc21989f1a1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="数据类型与文件格式"><a href="#数据类型与文件格式" class="headerlink" title="数据类型与文件格式"></a>数据类型与文件格式</h1><h2 id="数据类型"><a href="#数据类型" class="headerlink" title="数据类型"></a>数据类型</h2><h3 id="基本数据类型"><a href="#基本数据类型" class="headerlink" title="基本数据类型"></a>基本数据类型</h3><p><img src="/Hive/2021/8bc21989f1a1/1.png" alt="基本数据类型"></p><h3 id="集合数据类型"><a href="#集合数据类型" class="headerlink" title="集合数据类型"></a>集合数据类型</h3><p><img src="/Hive/2021/8bc21989f1a1/2.png" alt="集合数据类型"></p><span id="more"></span><h3 id="案例"><a href="#案例" class="headerlink" title="案例"></a>案例</h3><p><img src="/Hive/2021/8bc21989f1a1/3.png" alt="case"></p><h2 id="文本文件数据编码"><a href="#文本文件数据编码" class="headerlink" title="文本文件数据编码"></a>文本文件数据编码</h2><p><strong>CSV</strong>（Comma-Separated Values）：逗号分隔值的英文缩写<br>一行表示一条记录，每条记录中不同属性的值用逗号进行分隔</p><p>数据并不是一开始就存储在数据库中的，一般都是需要进行收集后加载到数据库中，数据库都支持诸如csv这种文本文件的批量数据导入。</p><p>HiveQL 由于存在集合数据类型（存在逗号），所以 csv文件中格式容易混淆，由此提出字段分隔符</p><h3 id="字段分隔符"><a href="#字段分隔符" class="headerlink" title="字段分隔符"></a>字段分隔符</h3><p><img src="/Hive/2021/8bc21989f1a1/4.png" alt="img"></p><h2 id="读时模式"><a href="#读时模式" class="headerlink" title="读时模式"></a>读时模式</h2><p>写时模式（传统数据库）：数据在吸入数据库时对模式进行检查。<br>读时模式（Hive）：Hive不会在数据加载时进行验证，而是在查询时进行。</p><h1 id="Hive-中的数据库"><a href="#Hive-中的数据库" class="headerlink" title="Hive 中的数据库"></a>Hive 中的数据库</h1><h2 id="HiveQL-与-MySQL-的异同"><a href="#HiveQL-与-MySQL-的异同" class="headerlink" title="HiveQL 与 MySQL 的异同"></a>HiveQL 与 MySQL 的异同</h2><p>异：Hive 不支持行级插入、更新和删除操作，也不支持事务。在Hadoop的支撑下，Hive具有很强的扩展性。<br>同：语法差别不大</p><p>… …</p>]]></content>
+      
+      
       <categories>
-        <category>影视</category>
+          
+          <category> Hive </category>
+          
       </categories>
-      <tags>
-        <tag>电影</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>HiveQL学习</title>
-    <url>/Hive/2021/8bc21989f1a1/</url>
-    <content><![CDATA[<h1 id="数据类型与文件格式"><a href="#数据类型与文件格式" class="headerlink" title="数据类型与文件格式"></a>数据类型与文件格式</h1><h2 id="数据类型"><a href="#数据类型" class="headerlink" title="数据类型"></a>数据类型</h2><h3 id="基本数据类型"><a href="#基本数据类型" class="headerlink" title="基本数据类型"></a>基本数据类型</h3><p><img src="/Hive/2021/8bc21989f1a1/1.png" alt="基本数据类型"></p>
-<h3 id="集合数据类型"><a href="#集合数据类型" class="headerlink" title="集合数据类型"></a>集合数据类型</h3><p><img src="/Hive/2021/8bc21989f1a1/2.png" alt="集合数据类型"></p>
-<span id="more"></span>
-
-<h3 id="案例"><a href="#案例" class="headerlink" title="案例"></a>案例</h3><p><img src="/Hive/2021/8bc21989f1a1/3.png" alt="case"></p>
-<h2 id="文本文件数据编码"><a href="#文本文件数据编码" class="headerlink" title="文本文件数据编码"></a>文本文件数据编码</h2><p><strong>CSV</strong>（Comma-Separated Values）：逗号分隔值的英文缩写<br>一行表示一条记录，每条记录中不同属性的值用逗号进行分隔</p>
-<p>数据并不是一开始就存储在数据库中的，一般都是需要进行收集后加载到数据库中，数据库都支持诸如csv这种文本文件的批量数据导入。</p>
-<p>HiveQL 由于存在集合数据类型（存在逗号），所以 csv文件中格式容易混淆，由此提出字段分隔符</p>
-<h3 id="字段分隔符"><a href="#字段分隔符" class="headerlink" title="字段分隔符"></a>字段分隔符</h3><p><img src="/Hive/2021/8bc21989f1a1/4.png" alt="img"></p>
-<h2 id="读时模式"><a href="#读时模式" class="headerlink" title="读时模式"></a>读时模式</h2><p>写时模式（传统数据库）：数据在吸入数据库时对模式进行检查。<br>读时模式（Hive）：Hive不会在数据加载时进行验证，而是在查询时进行。</p>
-<h1 id="Hive-中的数据库"><a href="#Hive-中的数据库" class="headerlink" title="Hive 中的数据库"></a>Hive 中的数据库</h1><h2 id="HiveQL-与-MySQL-的异同"><a href="#HiveQL-与-MySQL-的异同" class="headerlink" title="HiveQL 与 MySQL 的异同"></a>HiveQL 与 MySQL 的异同</h2><p>异：Hive 不支持行级插入、更新和删除操作，也不支持事务。在Hadoop的支撑下，Hive具有很强的扩展性。<br>同：语法差别不大</p>
-<p>… …</p>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> HiveQL </tag>
+            
+            <tag> Hive </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>数据库概论</title>
+      <link href="/%E6%95%B0%E6%8D%AE%E5%BA%93/2021/be4b5f6e2e4e/"/>
+      <url>/%E6%95%B0%E6%8D%AE%E5%BA%93/2021/be4b5f6e2e4e/</url>
+      
+        <content type="html"><![CDATA[<h1 id="数据库的前生今世"><a href="#数据库的前生今世" class="headerlink" title="数据库的前生今世"></a>数据库的前生今世</h1><p><a href="https://baijiahao.baidu.com/s?id=1692994279161374275&wfr=spider&for=pc">数据库的前世今生 (baidu.com)</a></p><h1 id="数据库的四个基本概念"><a href="#数据库的四个基本概念" class="headerlink" title="数据库的四个基本概念"></a>数据库的四个基本概念</h1><p><a href="https://blog.csdn.net/Steve_Hao/article/details/90667563">1. 数据库的四个基本概念_清风的博客-CSDN博客_数据库的四个基本概念</a></p><h1 id="数据模型"><a href="#数据模型" class="headerlink" title="数据模型"></a>数据模型</h1><p><a href="https://baike.baidu.com/item/%E6%95%B0%E6%8D%AE%E6%A8%A1%E5%9E%8B/1305623?fr=aladdin">数据模型_百度百科 (baidu.com)</a></p><span id="more"></span><h1 id="关系型数据库"><a href="#关系型数据库" class="headerlink" title="关系型数据库"></a>关系型数据库</h1><h2 id="关系的完整性"><a href="#关系的完整性" class="headerlink" title="关系的完整性"></a>关系的完整性</h2><h2 id="关系代数"><a href="#关系代数" class="headerlink" title="关系代数"></a>关系代数</h2><h2 id="ER图"><a href="#ER图" class="headerlink" title="ER图"></a>ER图</h2><p>实体、联系与属性</p><h2 id="数据库范式"><a href="#数据库范式" class="headerlink" title="数据库范式"></a>数据库范式</h2><p>第一范式：列最小分割单元<br>第二范式：满足第一范式，无函数部分依赖<br>第三范式：满足第二范式，无传递依赖</p><h1 id="非关系型数据库"><a href="#非关系型数据库" class="headerlink" title="非关系型数据库"></a>非关系型数据库</h1><h2 id="关系型数据库的缺点"><a href="#关系型数据库的缺点" class="headerlink" title="关系型数据库的缺点"></a>关系型数据库的缺点</h2><p>大数据场景下 I/O 较高<br>存储的是行记录，无法存储数据结构<br>表结构扩展不方便<br>全文搜索能力较弱<br>存储和处理复杂关系型数据功能较弱</p><h2 id="非关系型数据库-1"><a href="#非关系型数据库-1" class="headerlink" title="非关系型数据库"></a>非关系型数据库</h2><p>有键值对存储、列存储、文档存储、图形数据存储<br>采用分布式系统架构<br>没有声明式查询语言（SQL）<br>允许半结构化数据<br>摒弃了关系型数据库ACID属性（原子性、一致性、独立性、持久性）<br>CAP定理（最多同时满足两条）</p><ul><li>一致性（Consistency）：所有节点在同一时间具有相同的数据</li><li>可用性（Availability）：保证每个请求不管成功或者失败都有响应</li><li>分割容忍（Partition tolerance）：系统中任意信息的丢失或者失败不会影响系统的继续运作</li></ul><p>注：<br>集群：每个节点的功能都是相同的，当一个节点失效了，则剩下的节点可以为失效的节点承担更多的工作量。<br>分布式：每个节点只完成完整任务中的一个子任务，即每个节点之间的功能是不相同的。当某一个节点失败了，则整个分布式系统就会失败。</p><h1 id="针对关系型数据库的局限性的-NoSQL-解决方案"><a href="#针对关系型数据库的局限性的-NoSQL-解决方案" class="headerlink" title="针对关系型数据库的局限性的 NoSQL 解决方案"></a>针对关系型数据库的局限性的 NoSQL 解决方案</h1><h2 id="针对大数据场景下-I-O-较高的问题"><a href="#针对大数据场景下-I-O-较高的问题" class="headerlink" title="针对大数据场景下 I/O 较高的问题"></a>针对大数据场景下 I/O 较高的问题</h2><p>提出列式数据库（BigTable，HBASE）</p><p>优点：</p><ul><li><p>高效的存储空间利用率</p></li><li><p>查询效率高</p></li><li><p>适合大数据场景</p></li></ul><p>缺点：</p><ul><li>不适合扫描小数据</li><li>不适合做含有删除和更新的实时操作</li></ul><p>使用场景</p><ul><li>大数据量且有快速随机访问的需求</li><li>写密集型应用</li><li>不需要复杂查询条件的应用</li><li>对性能和可靠性要求比较高的应用</li><li>有数据扩展的需求</li><li>存储结构化和半结构化的数据</li></ul><h2 id="针对无法存储数据结构的问题"><a href="#针对无法存储数据结构的问题" class="headerlink" title="针对无法存储数据结构的问题"></a>针对无法存储数据结构的问题</h2><p>提出了键值对数据库，有Redis（普通场景中最为常用）、cassandra（大型企业级应用场景较为流行）、levelDB</p><p>优点：</p><ul><li>性能极高</li><li>数据类型丰富</li><li>特性丰富</li></ul><p>缺点：</p><ul><li>查询内容基于值</li><li>无法存储数据之间的关系</li></ul><p>使用场景</p><ul><li>存储用户信息、配置文件、参数、购物车等</li></ul><h2 id="针对表结构扩展不方便的问题"><a href="#针对表结构扩展不方便的问题" class="headerlink" title="针对表结构扩展不方便的问题"></a>针对表结构扩展不方便的问题</h2><p>提出文档数据库，有 mongoDB（常被用于存储一些文件类的数据，例如 word、PDF）、CouchDB（采用了MapReduce机制）</p><p>优点</p><ul><li>新增属性简单</li><li>兼容历史数据</li><li>存储复杂结构数据</li></ul><p>缺点</p><ul><li>不支持复杂查询</li></ul><p>使用场景</p><ul><li>当前数据量大且变动较大的场景</li><li>表结构不明确</li></ul><h2 id="针对全文搜索能力较弱问题"><a href="#针对全文搜索能力较弱问题" class="headerlink" title="针对全文搜索能力较弱问题"></a>针对全文搜索能力较弱问题</h2><p>提出全文搜索引擎（基于数据库原理开发出的强化全文搜索能力的工具），有Elastic Search、Solr。</p><p>采用的数据存储方式：倒排索引方式（<a href="http://yangyingming.com/article/379/">关于 ElasticSearch 中倒排索引的理解 (yangyingming.com)</a>）</p><p>优点</p><ul><li>查询效率高</li><li>可扩展性</li><li>可有可用性良好</li></ul><p>缺点</p><ul><li>对关系的表述能力较弱</li><li>读写有一定延时</li><li>更新性能较低</li><li>内存占用较大</li></ul><p>使用场景</p><ul><li>全文检索，结构化检索、数据分析</li><li>对海量数据进行近实时的处理</li></ul><h2 id="针对存储和处理复杂关系型数据功能较弱的问题"><a href="#针对存储和处理复杂关系型数据功能较弱的问题" class="headerlink" title="针对存储和处理复杂关系型数据功能较弱的问题"></a>针对存储和处理复杂关系型数据功能较弱的问题</h2><p>提出了图数据库，有Neo4j（最流行、符合ACID) 、ArangoDB、TITAN</p><p>优点</p><ul><li>查询性能高</li><li>开发敏捷性与设计灵活性</li><li>完全支持ACID</li></ul><p>缺点</p><ul><li>对节点、关系和属性的数量有限制</li><li>数据无法拆分</li></ul><p>使用场景</p><ul><li>社交网络</li><li>推荐引擎</li></ul><h2 id="常见软件系统数据库选型"><a href="#常见软件系统数据库选型" class="headerlink" title="常见软件系统数据库选型"></a>常见软件系统数据库选型</h2><p><img src="/%E6%95%B0%E6%8D%AE%E5%BA%93/2021/be4b5f6e2e4e/1.png" alt="img"></p><h1 id="Hadoop-与-Hive"><a href="#Hadoop-与-Hive" class="headerlink" title="Hadoop 与 Hive"></a>Hadoop 与 Hive</h1><p><strong>Hadoop 是一个开源框架，用于在分布式环境中存储和处理大数据。它包含两个模块，一个是分布式文件系统HDFS，另外一个是分布式计算模型 MapReduce。</strong></p><p>MapReduce 可将大数据处理任务分解成很多单个的、可以在服务器集群中并行执行的任务。这些任务的计算结构可以合并在一起用于计算最终的结果。<br>Hive 是基于Hadoop的一个数据仓库工具，常用于数据提取（Extract）、转化（Transform）、加载（Load）。</p><hr><p>参考：<a href="http://coursehome.zhihuishu.com/courseHome/1000010671#teachTeam">数据库与数据挖掘—智慧树网 (zhihuishu.com)</a></p>]]></content>
+      
+      
       <categories>
-        <category>Hive</category>
+          
+          <category> 数据库 </category>
+          
       </categories>
-      <tags>
-        <tag>HiveQL</tag>
-        <tag>Hive</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>数据库概论</title>
-    <url>/%E6%95%B0%E6%8D%AE%E5%BA%93/2021/be4b5f6e2e4e/</url>
-    <content><![CDATA[<h1 id="数据库的前生今世"><a href="#数据库的前生今世" class="headerlink" title="数据库的前生今世"></a>数据库的前生今世</h1><p><a href="https://baijiahao.baidu.com/s?id=1692994279161374275&wfr=spider&for=pc">数据库的前世今生 (baidu.com)</a></p>
-<h1 id="数据库的四个基本概念"><a href="#数据库的四个基本概念" class="headerlink" title="数据库的四个基本概念"></a>数据库的四个基本概念</h1><p><a href="https://blog.csdn.net/Steve_Hao/article/details/90667563">1. 数据库的四个基本概念_清风的博客-CSDN博客_数据库的四个基本概念</a></p>
-<h1 id="数据模型"><a href="#数据模型" class="headerlink" title="数据模型"></a>数据模型</h1><p><a href="https://baike.baidu.com/item/%E6%95%B0%E6%8D%AE%E6%A8%A1%E5%9E%8B/1305623?fr=aladdin">数据模型_百度百科 (baidu.com)</a></p>
-<span id="more"></span>
-
-<h1 id="关系型数据库"><a href="#关系型数据库" class="headerlink" title="关系型数据库"></a>关系型数据库</h1><h2 id="关系的完整性"><a href="#关系的完整性" class="headerlink" title="关系的完整性"></a>关系的完整性</h2><h2 id="关系代数"><a href="#关系代数" class="headerlink" title="关系代数"></a>关系代数</h2><h2 id="ER图"><a href="#ER图" class="headerlink" title="ER图"></a>ER图</h2><p>实体、联系与属性</p>
-<h2 id="数据库范式"><a href="#数据库范式" class="headerlink" title="数据库范式"></a>数据库范式</h2><p>第一范式：列最小分割单元<br>第二范式：满足第一范式，无函数部分依赖<br>第三范式：满足第二范式，无传递依赖</p>
-<h1 id="非关系型数据库"><a href="#非关系型数据库" class="headerlink" title="非关系型数据库"></a>非关系型数据库</h1><h2 id="关系型数据库的缺点"><a href="#关系型数据库的缺点" class="headerlink" title="关系型数据库的缺点"></a>关系型数据库的缺点</h2><p>大数据场景下 I/O 较高<br>存储的是行记录，无法存储数据结构<br>表结构扩展不方便<br>全文搜索能力较弱<br>存储和处理复杂关系型数据功能较弱</p>
-<h2 id="非关系型数据库-1"><a href="#非关系型数据库-1" class="headerlink" title="非关系型数据库"></a>非关系型数据库</h2><p>有键值对存储、列存储、文档存储、图形数据存储<br>采用分布式系统架构<br>没有声明式查询语言（SQL）<br>允许半结构化数据<br>摒弃了关系型数据库ACID属性（原子性、一致性、独立性、持久性）<br>CAP定理（最多同时满足两条）</p>
-<ul>
-<li>一致性（Consistency）：所有节点在同一时间具有相同的数据</li>
-<li>可用性（Availability）：保证每个请求不管成功或者失败都有响应</li>
-<li>分割容忍（Partition tolerance）：系统中任意信息的丢失或者失败不会影响系统的继续运作</li>
-</ul>
-<p>注：<br>集群：每个节点的功能都是相同的，当一个节点失效了，则剩下的节点可以为失效的节点承担更多的工作量。<br>分布式：每个节点只完成完整任务中的一个子任务，即每个节点之间的功能是不相同的。当某一个节点失败了，则整个分布式系统就会失败。</p>
-<h1 id="针对关系型数据库的局限性的-NoSQL-解决方案"><a href="#针对关系型数据库的局限性的-NoSQL-解决方案" class="headerlink" title="针对关系型数据库的局限性的 NoSQL 解决方案"></a>针对关系型数据库的局限性的 NoSQL 解决方案</h1><h2 id="针对大数据场景下-I-O-较高的问题"><a href="#针对大数据场景下-I-O-较高的问题" class="headerlink" title="针对大数据场景下 I/O 较高的问题"></a>针对大数据场景下 I/O 较高的问题</h2><p>提出列式数据库（BigTable，HBASE）</p>
-<p>优点：</p>
-<ul>
-<li><p>高效的存储空间利用率</p>
-</li>
-<li><p>查询效率高</p>
-</li>
-<li><p>适合大数据场景</p>
-</li>
-</ul>
-<p>缺点：</p>
-<ul>
-<li>不适合扫描小数据</li>
-<li>不适合做含有删除和更新的实时操作</li>
-</ul>
-<p>使用场景</p>
-<ul>
-<li>大数据量且有快速随机访问的需求</li>
-<li>写密集型应用</li>
-<li>不需要复杂查询条件的应用</li>
-<li>对性能和可靠性要求比较高的应用</li>
-<li>有数据扩展的需求</li>
-<li>存储结构化和半结构化的数据</li>
-</ul>
-<h2 id="针对无法存储数据结构的问题"><a href="#针对无法存储数据结构的问题" class="headerlink" title="针对无法存储数据结构的问题"></a>针对无法存储数据结构的问题</h2><p>提出了键值对数据库，有Redis（普通场景中最为常用）、cassandra（大型企业级应用场景较为流行）、levelDB</p>
-<p>优点：</p>
-<ul>
-<li>性能极高</li>
-<li>数据类型丰富</li>
-<li>特性丰富</li>
-</ul>
-<p>缺点：</p>
-<ul>
-<li>查询内容基于值</li>
-<li>无法存储数据之间的关系</li>
-</ul>
-<p>使用场景</p>
-<ul>
-<li>存储用户信息、配置文件、参数、购物车等</li>
-</ul>
-<h2 id="针对表结构扩展不方便的问题"><a href="#针对表结构扩展不方便的问题" class="headerlink" title="针对表结构扩展不方便的问题"></a>针对表结构扩展不方便的问题</h2><p>提出文档数据库，有 mongoDB（常被用于存储一些文件类的数据，例如 word、PDF）、CouchDB（采用了MapReduce机制）</p>
-<p>优点</p>
-<ul>
-<li>新增属性简单</li>
-<li>兼容历史数据</li>
-<li>存储复杂结构数据</li>
-</ul>
-<p>缺点</p>
-<ul>
-<li>不支持复杂查询</li>
-</ul>
-<p>使用场景</p>
-<ul>
-<li>当前数据量大且变动较大的场景</li>
-<li>表结构不明确</li>
-</ul>
-<h2 id="针对全文搜索能力较弱问题"><a href="#针对全文搜索能力较弱问题" class="headerlink" title="针对全文搜索能力较弱问题"></a>针对全文搜索能力较弱问题</h2><p>提出全文搜索引擎（基于数据库原理开发出的强化全文搜索能力的工具），有Elastic Search、Solr。</p>
-<p>采用的数据存储方式：倒排索引方式（<a href="http://yangyingming.com/article/379/">关于 ElasticSearch 中倒排索引的理解 (yangyingming.com)</a>）</p>
-<p>优点</p>
-<ul>
-<li>查询效率高</li>
-<li>可扩展性</li>
-<li>可有可用性良好</li>
-</ul>
-<p>缺点</p>
-<ul>
-<li>对关系的表述能力较弱</li>
-<li>读写有一定延时</li>
-<li>更新性能较低</li>
-<li>内存占用较大</li>
-</ul>
-<p>使用场景</p>
-<ul>
-<li>全文检索，结构化检索、数据分析</li>
-<li>对海量数据进行近实时的处理</li>
-</ul>
-<h2 id="针对存储和处理复杂关系型数据功能较弱的问题"><a href="#针对存储和处理复杂关系型数据功能较弱的问题" class="headerlink" title="针对存储和处理复杂关系型数据功能较弱的问题"></a>针对存储和处理复杂关系型数据功能较弱的问题</h2><p>提出了图数据库，有Neo4j（最流行、符合ACID) 、ArangoDB、TITAN</p>
-<p>优点</p>
-<ul>
-<li>查询性能高</li>
-<li>开发敏捷性与设计灵活性</li>
-<li>完全支持ACID</li>
-</ul>
-<p>缺点</p>
-<ul>
-<li>对节点、关系和属性的数量有限制</li>
-<li>数据无法拆分</li>
-</ul>
-<p>使用场景</p>
-<ul>
-<li>社交网络</li>
-<li>推荐引擎</li>
-</ul>
-<h2 id="常见软件系统数据库选型"><a href="#常见软件系统数据库选型" class="headerlink" title="常见软件系统数据库选型"></a>常见软件系统数据库选型</h2><p><img src="/%E6%95%B0%E6%8D%AE%E5%BA%93/2021/be4b5f6e2e4e/1.png" alt="img"></p>
-<h1 id="Hadoop-与-Hive"><a href="#Hadoop-与-Hive" class="headerlink" title="Hadoop 与 Hive"></a>Hadoop 与 Hive</h1><p><strong>Hadoop 是一个开源框架，用于在分布式环境中存储和处理大数据。它包含两个模块，一个是分布式文件系统HDFS，另外一个是分布式计算模型 MapReduce。</strong></p>
-<p>MapReduce 可将大数据处理任务分解成很多单个的、可以在服务器集群中并行执行的任务。这些任务的计算结构可以合并在一起用于计算最终的结果。<br>Hive 是基于Hadoop的一个数据仓库工具，常用于数据提取（Extract）、转化（Transform）、加载（Load）。</p>
-<hr>
-<p>参考：<a href="http://coursehome.zhihuishu.com/courseHome/1000010671#teachTeam">数据库与数据挖掘—智慧树网 (zhihuishu.com)</a></p>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> 数据库 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>建站日志</title>
+      <link href="/%E6%97%A5%E5%BF%97/2021/9d43d9a6d0f1/"/>
+      <url>/%E6%97%A5%E5%BF%97/2021/9d43d9a6d0f1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Hexo-官方中文参考文档"><a href="#Hexo-官方中文参考文档" class="headerlink" title="Hexo 官方中文参考文档"></a>Hexo 官方中文参考文档</h1><p>地址：<a href="https://hexo.io/zh-cn/docs/">文档 | Hexo</a></p><h1 id="安装NexT主题"><a href="#安装NexT主题" class="headerlink" title="安装NexT主题"></a>安装NexT主题</h1><p>地址：<a href="https://github.com/theme-next/hexo-theme-next">theme-next/hexo-theme-next: Elegant and powerful theme for Hexo. (github.com)</a></p><h1 id="主题美化"><a href="#主题美化" class="headerlink" title="主题美化"></a>主题美化</h1><p>参考：<br><a href="https://blog.csdn.net/qq_36759224/article/details/98057466">利用Cloudflare为基于GitHub Pages的Hexo博客添加HTTPS支持 TRHX’S BLOG-CSDN博客</a><br><a href="https://www.techgrow.cn/tags/Hexo/">标签: Hexo | Clay 的技术博客 (techgrow.cn)</a><br><a href="https://www.cnblogs.com/bzsheng/p/13802829.html">hexo博客如何插入图片 - 不作声 - 博客园 (cnblogs.com)</a><br><a target="_blank" rel="noopener" href="https://hoxis.github.io/Hexo+Next SEO优化.html" data-pjax-state="">Hexo博客Next主题SEO优化方法 | hoxis’ blog</a></p>]]></content>
+      
+      
       <categories>
-        <category>数据库</category>
+          
+          <category> 日志 </category>
+          
       </categories>
-      <tags>
-        <tag>数据库</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>建站日志</title>
-    <url>/%E6%97%A5%E5%BF%97/2021/9d43d9a6d0f1/</url>
-    <content><![CDATA[<h1 id="Hexo-官方中文参考文档"><a href="#Hexo-官方中文参考文档" class="headerlink" title="Hexo 官方中文参考文档"></a>Hexo 官方中文参考文档</h1><p>地址：<a href="https://hexo.io/zh-cn/docs/">文档 | Hexo</a></p>
-<h1 id="安装NexT主题"><a href="#安装NexT主题" class="headerlink" title="安装NexT主题"></a>安装NexT主题</h1><p>地址：<a href="https://github.com/theme-next/hexo-theme-next">theme-next/hexo-theme-next: Elegant and powerful theme for Hexo. (github.com)</a></p>
-<h1 id="主题美化"><a href="#主题美化" class="headerlink" title="主题美化"></a>主题美化</h1><p>参考：<br><a href="https://blog.csdn.net/qq_36759224/article/details/98057466">利用Cloudflare为基于GitHub Pages的Hexo博客添加HTTPS支持 TRHX’S BLOG-CSDN博客</a><br><a href="https://www.techgrow.cn/tags/Hexo/">标签: Hexo | Clay 的技术博客 (techgrow.cn)</a><br><a href="https://www.cnblogs.com/bzsheng/p/13802829.html">hexo博客如何插入图片 - 不作声 - 博客园 (cnblogs.com)</a><br><a target="_blank" rel="noopener" href="https://hoxis.github.io/Hexo+Next SEO优化.html" data-pjax-state="">Hexo博客Next主题SEO优化方法 | hoxis’ blog</a></p>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>在2021年，我看过的电影</title>
+      <link href="/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/"/>
+      <url>/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/</url>
+      
+        <content type="html"><![CDATA[<h1 id="飞屋环游记"><a href="#飞屋环游记" class="headerlink" title="飞屋环游记"></a><a href="https://movie.douban.com/subject/2129039/">飞屋环游记</a></h1><p><img src="/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/p2363116942.webp" alt="Up"><br>跟你在一起度过的时光就是我渴望的冒险之旅。</p><span id="more"></span><h1 id="火口的两人"><a href="#火口的两人" class="headerlink" title="火口的两人"></a><a href="https://movie.douban.com/subject/30405087/">火口的两人</a></h1><p><img src="/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/p2556419282.webp" alt="火口的两人"><br>等待世界末日来临之时，珍惜彼此的片刻。</p><h1 id="男与女"><a href="#男与女" class="headerlink" title="男与女"></a><a href="https://movie.douban.com/subject/25835285/">男与女</a></h1><p><img src="/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/p2308184818.webp" alt="男与女"><br>我喜欢你，但我不能跟你在一起。</p><h1 id="风声"><a href="#风声" class="headerlink" title="风声"></a><a href="https://movie.douban.com/subject/3734112/">风声</a></h1><p><img src="/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/p1599059779.webp" alt="风声"><br>“我要你活着”</p><h1 id="致命ID"><a href="#致命ID" class="headerlink" title="致命ID"></a><a href="https://movie.douban.com/subject/1297192/">致命ID</a></h1><p><img src="/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/p2558364386.webp" alt="致命ID"><br>“你是谁？”（沉默)</p><h1 id="一天"><a href="#一天" class="headerlink" title="一天"></a><a href="https://movie.douban.com/subject/4191644/">一天</a></h1><p><img src="/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/p1103205323.webp" alt="One Day"><br>人生不过就是在那一天，有你的那一天</p><h1 id="怒火·重案"><a href="#怒火·重案" class="headerlink" title="怒火·重案"></a>怒火·重案</h1><p><img src="/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/p2673412189.webp" alt="重案"><br>如果你是我，我们的结局会不会反过来。</p><h1 id="叶问4：完结篇"><a href="#叶问4：完结篇" class="headerlink" title="叶问4：完结篇"></a>叶问4：完结篇</h1><p><img src="/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/p2577578115.webp" alt="叶问4"><br>平淡才是真，父母与子女之间的情感盛宴。</p><h1 id="神偷奶爸3"><a href="#神偷奶爸3" class="headerlink" title="神偷奶爸3"></a>神偷奶爸3</h1><p><img src="/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/p2469070974.webp" alt="img"></p><h1 id="寻龙传说"><a href="#寻龙传说" class="headerlink" title="寻龙传说"></a>寻龙传说</h1><p><img src="/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/p2633531206.webp" alt="img"><br>我相信他们，他们也相信我。</p><h1 id="万能钥匙"><a href="#万能钥匙" class="headerlink" title="万能钥匙"></a>万能钥匙</h1><p>2021-12-31 晚<br><img src="/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/p810384382.webp" alt="img"><br>只要你相信，那就是真的。</p>]]></content>
+      
+      
       <categories>
-        <category>日志</category>
+          
+          <category> 影视 </category>
+          
       </categories>
-      <tags>
-        <tag>Hexo</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> 电影 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
