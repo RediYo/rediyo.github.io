@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>HiveQL学习</title>
-    <url>/Hive/2021/8bc21989f1a1/</url>
-    <content><![CDATA[<h1 id="数据类型与文件格式"><a href="#数据类型与文件格式" class="headerlink" title="数据类型与文件格式"></a>数据类型与文件格式</h1><h2 id="数据类型"><a href="#数据类型" class="headerlink" title="数据类型"></a>数据类型</h2><h3 id="基本数据类型"><a href="#基本数据类型" class="headerlink" title="基本数据类型"></a>基本数据类型</h3><p><img src="/Hive/2021/8bc21989f1a1/1.png" alt="基本数据类型"></p>
-<h3 id="集合数据类型"><a href="#集合数据类型" class="headerlink" title="集合数据类型"></a>集合数据类型</h3><p><img src="/Hive/2021/8bc21989f1a1/2.png" alt="集合数据类型"></p>
-<span id="more"></span>
-
-<h3 id="案例"><a href="#案例" class="headerlink" title="案例"></a>案例</h3><p><img src="/Hive/2021/8bc21989f1a1/3.png" alt="case"></p>
-<h2 id="文本文件数据编码"><a href="#文本文件数据编码" class="headerlink" title="文本文件数据编码"></a>文本文件数据编码</h2><p><strong>CSV</strong>（Comma-Separated Values）：逗号分隔值的英文缩写<br>一行表示一条记录，每条记录中不同属性的值用逗号进行分隔</p>
-<p>数据并不是一开始就存储在数据库中的，一般都是需要进行收集后加载到数据库中，数据库都支持诸如csv这种文本文件的批量数据导入。</p>
-<p>HiveQL 由于存在集合数据类型（存在逗号），所以 csv文件中格式容易混淆，由此提出字段分隔符</p>
-<h3 id="字段分隔符"><a href="#字段分隔符" class="headerlink" title="字段分隔符"></a>字段分隔符</h3><p><img src="/Hive/2021/8bc21989f1a1/4.png" alt="img"></p>
-<h2 id="读时模式"><a href="#读时模式" class="headerlink" title="读时模式"></a>读时模式</h2><p>写时模式（传统数据库）：数据在吸入数据库时对模式进行检查。<br>读时模式（Hive）：Hive不会在数据加载时进行验证，而是在查询时进行。</p>
-<h1 id="Hive-中的数据库"><a href="#Hive-中的数据库" class="headerlink" title="Hive 中的数据库"></a>Hive 中的数据库</h1><h2 id="HiveQL-与-MySQL-的异同"><a href="#HiveQL-与-MySQL-的异同" class="headerlink" title="HiveQL 与 MySQL 的异同"></a>HiveQL 与 MySQL 的异同</h2><p>异：Hive 不支持行级插入、更新和删除操作，也不支持事务。在Hadoop的支撑下，Hive具有很强的扩展性。<br>同：语法差别不大</p>
-<p>… …</p>
-]]></content>
-      <categories>
-        <category>Hive</category>
-      </categories>
-      <tags>
-        <tag>HiveQL</tag>
-        <tag>Hive</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>在2021年，我看过的电影</title>
     <url>/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/</url>
     <content><![CDATA[<h1 id="飞屋环游记"><a href="#飞屋环游记" class="headerlink" title="飞屋环游记"></a><a href="https://movie.douban.com/subject/2129039/">飞屋环游记</a></h1><p><img src="/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/p2363116942.webp" alt="Up"><br>跟你在一起度过的时光就是我渴望的冒险之旅。</p>
@@ -49,17 +25,27 @@
       </tags>
   </entry>
   <entry>
-    <title>建站日志</title>
-    <url>/%E6%97%A5%E5%BF%97/2021/9d43d9a6d0f1/</url>
-    <content><![CDATA[<h1 id="Hexo-官方中文参考文档"><a href="#Hexo-官方中文参考文档" class="headerlink" title="Hexo 官方中文参考文档"></a>Hexo 官方中文参考文档</h1><p>地址：<a href="https://hexo.io/zh-cn/docs/">文档 | Hexo</a></p>
-<h1 id="安装NexT主题"><a href="#安装NexT主题" class="headerlink" title="安装NexT主题"></a>安装NexT主题</h1><p>地址：<a href="https://github.com/theme-next/hexo-theme-next">theme-next/hexo-theme-next: Elegant and powerful theme for Hexo. (github.com)</a></p>
-<h1 id="主题美化"><a href="#主题美化" class="headerlink" title="主题美化"></a>主题美化</h1><p>参考：<br><a href="https://blog.csdn.net/qq_36759224/article/details/98057466">利用Cloudflare为基于GitHub Pages的Hexo博客添加HTTPS支持 TRHX’S BLOG-CSDN博客</a><br><a href="https://www.techgrow.cn/tags/Hexo/">标签: Hexo | Clay 的技术博客 (techgrow.cn)</a><br><a href="https://www.cnblogs.com/bzsheng/p/13802829.html">hexo博客如何插入图片 - 不作声 - 博客园 (cnblogs.com)</a><br><a target="_blank" rel="noopener" href="https://hoxis.github.io/Hexo+Next SEO优化.html" data-pjax-state="">Hexo博客Next主题SEO优化方法 | hoxis’ blog</a></p>
+    <title>HiveQL学习</title>
+    <url>/Hive/2021/8bc21989f1a1/</url>
+    <content><![CDATA[<h1 id="数据类型与文件格式"><a href="#数据类型与文件格式" class="headerlink" title="数据类型与文件格式"></a>数据类型与文件格式</h1><h2 id="数据类型"><a href="#数据类型" class="headerlink" title="数据类型"></a>数据类型</h2><h3 id="基本数据类型"><a href="#基本数据类型" class="headerlink" title="基本数据类型"></a>基本数据类型</h3><p><img src="/Hive/2021/8bc21989f1a1/1.png" alt="基本数据类型"></p>
+<h3 id="集合数据类型"><a href="#集合数据类型" class="headerlink" title="集合数据类型"></a>集合数据类型</h3><p><img src="/Hive/2021/8bc21989f1a1/2.png" alt="集合数据类型"></p>
+<span id="more"></span>
+
+<h3 id="案例"><a href="#案例" class="headerlink" title="案例"></a>案例</h3><p><img src="/Hive/2021/8bc21989f1a1/3.png" alt="case"></p>
+<h2 id="文本文件数据编码"><a href="#文本文件数据编码" class="headerlink" title="文本文件数据编码"></a>文本文件数据编码</h2><p><strong>CSV</strong>（Comma-Separated Values）：逗号分隔值的英文缩写<br>一行表示一条记录，每条记录中不同属性的值用逗号进行分隔</p>
+<p>数据并不是一开始就存储在数据库中的，一般都是需要进行收集后加载到数据库中，数据库都支持诸如csv这种文本文件的批量数据导入。</p>
+<p>HiveQL 由于存在集合数据类型（存在逗号），所以 csv文件中格式容易混淆，由此提出字段分隔符</p>
+<h3 id="字段分隔符"><a href="#字段分隔符" class="headerlink" title="字段分隔符"></a>字段分隔符</h3><p><img src="/Hive/2021/8bc21989f1a1/4.png" alt="img"></p>
+<h2 id="读时模式"><a href="#读时模式" class="headerlink" title="读时模式"></a>读时模式</h2><p>写时模式（传统数据库）：数据在吸入数据库时对模式进行检查。<br>读时模式（Hive）：Hive不会在数据加载时进行验证，而是在查询时进行。</p>
+<h1 id="Hive-中的数据库"><a href="#Hive-中的数据库" class="headerlink" title="Hive 中的数据库"></a>Hive 中的数据库</h1><h2 id="HiveQL-与-MySQL-的异同"><a href="#HiveQL-与-MySQL-的异同" class="headerlink" title="HiveQL 与 MySQL 的异同"></a>HiveQL 与 MySQL 的异同</h2><p>异：Hive 不支持行级插入、更新和删除操作，也不支持事务。在Hadoop的支撑下，Hive具有很强的扩展性。<br>同：语法差别不大</p>
+<p>… …</p>
 ]]></content>
       <categories>
-        <category>日志</category>
+        <category>Hive</category>
       </categories>
       <tags>
-        <tag>Hexo</tag>
+        <tag>HiveQL</tag>
+        <tag>Hive</tag>
       </tags>
   </entry>
   <entry>
@@ -184,6 +170,20 @@
       </categories>
       <tags>
         <tag>数据库</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>建站日志</title>
+    <url>/%E6%97%A5%E5%BF%97/2021/9d43d9a6d0f1/</url>
+    <content><![CDATA[<h1 id="Hexo-官方中文参考文档"><a href="#Hexo-官方中文参考文档" class="headerlink" title="Hexo 官方中文参考文档"></a>Hexo 官方中文参考文档</h1><p>地址：<a href="https://hexo.io/zh-cn/docs/">文档 | Hexo</a></p>
+<h1 id="安装NexT主题"><a href="#安装NexT主题" class="headerlink" title="安装NexT主题"></a>安装NexT主题</h1><p>地址：<a href="https://github.com/theme-next/hexo-theme-next">theme-next/hexo-theme-next: Elegant and powerful theme for Hexo. (github.com)</a></p>
+<h1 id="主题美化"><a href="#主题美化" class="headerlink" title="主题美化"></a>主题美化</h1><p>参考：<br><a href="https://blog.csdn.net/qq_36759224/article/details/98057466">利用Cloudflare为基于GitHub Pages的Hexo博客添加HTTPS支持 TRHX’S BLOG-CSDN博客</a><br><a href="https://www.techgrow.cn/tags/Hexo/">标签: Hexo | Clay 的技术博客 (techgrow.cn)</a><br><a href="https://www.cnblogs.com/bzsheng/p/13802829.html">hexo博客如何插入图片 - 不作声 - 博客园 (cnblogs.com)</a><br><a target="_blank" rel="noopener" href="https://hoxis.github.io/Hexo+Next SEO优化.html" data-pjax-state="">Hexo博客Next主题SEO优化方法 | hoxis’ blog</a></p>
+]]></content>
+      <categories>
+        <category>日志</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
       </tags>
   </entry>
 </search>
