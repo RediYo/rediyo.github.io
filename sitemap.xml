@@ -74,6 +74,20 @@
 
   
   <url>
+    <loc>https://www.rediyo.cn/tags/%E7%94%B5%E5%BD%B1/</loc>
+    <lastmod>2022-02-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.rediyo.cn/tags/Hexo/</loc>
+    <lastmod>2022-02-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.rediyo.cn/tags/HiveQL/</loc>
     <lastmod>2022-02-13</lastmod>
     <changefreq>daily</changefreq>
@@ -88,34 +102,13 @@
   </url>
   
   <url>
-    <loc>https://www.rediyo.cn/tags/%E7%94%B5%E5%BD%B1/</loc>
-    <lastmod>2022-02-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.rediyo.cn/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
     <lastmod>2022-02-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://www.rediyo.cn/tags/Hexo/</loc>
-    <lastmod>2022-02-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>https://www.rediyo.cn/categories/Hive/</loc>
-    <lastmod>2022-02-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
   <url>
     <loc>https://www.rediyo.cn/categories/%E5%BD%B1%E8%A7%86/</loc>
@@ -125,14 +118,21 @@
   </url>
   
   <url>
-    <loc>https://www.rediyo.cn/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <loc>https://www.rediyo.cn/categories/%E6%97%A5%E5%BF%97/</loc>
     <lastmod>2022-02-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.rediyo.cn/categories/%E6%97%A5%E5%BF%97/</loc>
+    <loc>https://www.rediyo.cn/categories/Hive/</loc>
+    <lastmod>2022-02-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.rediyo.cn/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
     <lastmod>2022-02-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
