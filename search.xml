@@ -25,20 +25,6 @@
       </tags>
   </entry>
   <entry>
-    <title>建站日志</title>
-    <url>/%E6%97%A5%E5%BF%97/2021/9d43d9a6d0f1/</url>
-    <content><![CDATA[<h1 id="Hexo-官方中文参考文档"><a href="#Hexo-官方中文参考文档" class="headerlink" title="Hexo 官方中文参考文档"></a>Hexo 官方中文参考文档</h1><p>地址：<a href="https://hexo.io/zh-cn/docs/">文档 | Hexo</a></p>
-<h1 id="安装NexT主题"><a href="#安装NexT主题" class="headerlink" title="安装NexT主题"></a>安装NexT主题</h1><p>地址：<a href="https://github.com/theme-next/hexo-theme-next">theme-next/hexo-theme-next: Elegant and powerful theme for Hexo. (github.com)</a></p>
-<h1 id="主题美化"><a href="#主题美化" class="headerlink" title="主题美化"></a>主题美化</h1><p>参考：<br><a href="https://blog.csdn.net/qq_36759224/article/details/98057466">利用Cloudflare为基于GitHub Pages的Hexo博客添加HTTPS支持 TRHX’S BLOG-CSDN博客</a><br><a href="https://www.techgrow.cn/tags/Hexo/">标签: Hexo | Clay 的技术博客 (techgrow.cn)</a><br><a href="https://www.cnblogs.com/bzsheng/p/13802829.html">hexo博客如何插入图片 - 不作声 - 博客园 (cnblogs.com)</a><br><a target="_blank" rel="noopener" href="https://hoxis.github.io/Hexo+Next SEO优化.html" data-pjax-state="">Hexo博客Next主题SEO优化方法 | hoxis’ blog</a></p>
-]]></content>
-      <categories>
-        <category>日志</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>在2021年，我看过的电影</title>
     <url>/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/</url>
     <content><![CDATA[<h1 id="飞屋环游记"><a href="#飞屋环游记" class="headerlink" title="飞屋环游记"></a><a href="https://movie.douban.com/subject/2129039/">飞屋环游记</a></h1><p><img src="/%E5%BD%B1%E8%A7%86/2021/d6e29f59be16/p2363116942.webp" alt="Up"><br>跟你在一起度过的时光就是我渴望的冒险之旅。</p>
@@ -60,6 +46,20 @@
       </categories>
       <tags>
         <tag>电影</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>建站日志</title>
+    <url>/%E6%97%A5%E5%BF%97/2021/9d43d9a6d0f1/</url>
+    <content><![CDATA[<h1 id="Hexo-官方中文参考文档"><a href="#Hexo-官方中文参考文档" class="headerlink" title="Hexo 官方中文参考文档"></a>Hexo 官方中文参考文档</h1><p>地址：<a href="https://hexo.io/zh-cn/docs/">文档 | Hexo</a></p>
+<h1 id="安装NexT主题"><a href="#安装NexT主题" class="headerlink" title="安装NexT主题"></a>安装NexT主题</h1><p>地址：<a href="https://github.com/theme-next/hexo-theme-next">theme-next/hexo-theme-next: Elegant and powerful theme for Hexo. (github.com)</a></p>
+<h1 id="主题美化"><a href="#主题美化" class="headerlink" title="主题美化"></a>主题美化</h1><p>参考：<br><a href="https://blog.csdn.net/qq_36759224/article/details/98057466">利用Cloudflare为基于GitHub Pages的Hexo博客添加HTTPS支持 TRHX’S BLOG-CSDN博客</a><br><a href="https://www.techgrow.cn/tags/Hexo/">标签: Hexo | Clay 的技术博客 (techgrow.cn)</a><br><a href="https://www.cnblogs.com/bzsheng/p/13802829.html">hexo博客如何插入图片 - 不作声 - 博客园 (cnblogs.com)</a><br><a target="_blank" rel="noopener" href="https://hoxis.github.io/Hexo+Next SEO优化.html" data-pjax-state="">Hexo博客Next主题SEO优化方法 | hoxis’ blog</a></p>
+]]></content>
+      <categories>
+        <category>日志</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
       </tags>
   </entry>
   <entry>

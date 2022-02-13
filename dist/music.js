@@ -12,7 +12,7 @@ const ap = new APlayer({
 	  {
         name: '哪里都是你',
         artist: '队长',
-        url: 'http://www.ytmp3.cn/down/76138.mp3',
+        url: 'https://sharefs.ali.kugou.com/202202132354/be5f1a15c58ed2461fc4e4f2f1b0fac5/G113/M01/00/15/UZQEAFmvs_GAWEvMADZhzt1fmGQ829.mp3',
         cover: 'http://p1.music.126.net/lnOnBbP_H-052Hv5ls-QjA==/109951162964628408.jpg?param=130y130',
       },
       {
