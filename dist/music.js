@@ -10,10 +10,10 @@ const ap = new APlayer({
         cover: 'http://p1.music.126.net/W_5XiCv3rGS1-J7EXpHSCQ==/18885211718782327.jpg?param=130y130',
       },
 	  {
-        name: '这些民谣 - 一次听个够',
-        artist: '翁大涵',
-        url: 'http://www.ytmp3.cn/down/60222.mp3',
-        cover: 'http://p2.music.126.net/Wx5GNJEpay2JbfVUJc4Aew==/109951163094853876.jpg?param=130y130',
+        name: '哪里都是你',
+        artist: '队长',
+        url: 'http://www.ytmp3.cn/down/76138.mp3',
+        cover: 'http://p1.music.126.net/lnOnBbP_H-052Hv5ls-QjA==/109951162964628408.jpg?param=130y130',
       },
       {
         name: '你的酒馆对我打了烊',
@@ -22,10 +22,10 @@ const ap = new APlayer({
         cover: 'http://p1.music.126.net/LiRR__0pJHSivqBHZzbMUw==/109951163816225567.jpg?param=130y130',
       },
 	  {
-        name: 'Something Just Like This',
-        artist: 'The Chainsmokers',
-        url: 'http://www.ytmp3.cn/down/50463.mp3',
-        cover: 'http://p2.music.126.net/ggnyubDdMxrhpqYvpZbhEQ==/3302932937412681.jpg?param=130y130',
+        name: '给你呀（又名：for ya）',
+        artist: '蒋小呢',
+        url: 'http://www.ytmp3.cn/down/75542.mp3',
+        cover: 'http://p1.music.126.net/GI1Ex39x73zBT-1r7_o-sQ==/109951165494781109.jpg?param=130y130',
       },
       {
         name: 'Good Time',
