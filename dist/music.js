@@ -12,7 +12,7 @@ const ap = new APlayer({
 	  {
         name: '哪里都是你',
         artist: '队长',
-        url: 'https://sharefs.ali.kugou.com/202202132354/be5f1a15c58ed2461fc4e4f2f1b0fac5/G113/M01/00/15/UZQEAFmvs_GAWEvMADZhzt1fmGQ829.mp3',
+        url: 'https://link.jscdn.cn/sharepoint/aHR0cHM6Ly8xZHJpdi1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC9zdG9yXzFkcml2X29ubWljcm9zb2Z0X2NvbS9FWWRMZmVkbzhROU50NkxFak9zNHZDQUJSZENPbVBDY09NOVpUdU93ZWpGaDZ3.mp3',
         cover: 'http://p1.music.126.net/lnOnBbP_H-052Hv5ls-QjA==/109951162964628408.jpg?param=130y130',
       },
       {
