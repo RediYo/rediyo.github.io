@@ -11,5 +11,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://rediyo.cn/sitemap.xml
-Sitemap: https://rediyo.cn/baidusitemap.xml
+Sitemap: https://www.rediyo.cn/sitemap.xml
+Sitemap: https://www.rediyo.cn/baidusitemap.xml
