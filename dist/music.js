@@ -12,14 +12,14 @@ const ap = new APlayer({
 {
         name: "致你",
         artist: 'yihuik苡慧',
-        url: 'https://link.jscdn.cn/sharepoint/aHR0cHM6Ly8xZHJpdi1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC9zdG9yXzFkcml2X29ubWljcm9zb2Z0X2NvbS9FUVozS0VleVNDMU12VnFFVTk1Vnp0WUJlUkZGV0M4OHU5dEF3dDNaRmoyS1Zn.mp3',
+        url: 'http://m701.music.126.net/20220227161749/446911110a6105444ca4e2a5c1adf102/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/10481875587/3525/5951/e436/5a9e3966c30e0d42aa3d958603994a09.mp3',
         cover: 'https://p1.music.126.net/VDmN2dNpIFu4gTv4bZe6KQ==/109951166254691365.jpg?param=130y130',
       },
 	{
-        name: "平凡之路",
-        artist: '朴树',
-        url: 'http://www.ytmp3.cn/down/59211.mp3',
-        cover: 'http://p1.music.126.net/W_5XiCv3rGS1-J7EXpHSCQ==/18885211718782327.jpg?param=130y130',
+        name: "New Boy",
+        artist: '房东的猫,陈婧霏',
+        url: 'http://music.163.com/song/media/outer/url?id=1857630559.mp3',
+        cover: 'http://p4.music.126.net/KkrcSwKbRsd8GuaOHILlxA==/109951166077317301.jpg?param=300x300',
       },
       {
         name: '你的酒馆对我打了烊',
