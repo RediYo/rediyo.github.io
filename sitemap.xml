@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.rediyo.cn/resources/</loc>
+    
+    <lastmod>2022-03-20</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.rediyo.cn/%E6%97%A5%E5%BF%97/2022/a4c07a100278/</loc>
     
     <lastmod>2022-03-16</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://www.rediyo.cn/%E5%B0%8F%E6%8A%80%E5%B7%A7/2022/b57f6a2523c1/</loc>
     
     <lastmod>2022-03-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.rediyo.cn/resources/</loc>
-    
-    <lastmod>2022-02-27</lastmod>
     
   </url>
   
@@ -88,7 +88,7 @@
 
   <url>
     <loc>https://www.rediyo.cn/</loc>
-    <lastmod>2022-03-16</lastmod>
+    <lastmod>2022-03-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -96,42 +96,42 @@
   
   <url>
     <loc>https://www.rediyo.cn/tags/HiveQL/</loc>
-    <lastmod>2022-03-16</lastmod>
+    <lastmod>2022-03-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.rediyo.cn/tags/Hive/</loc>
-    <lastmod>2022-03-16</lastmod>
+    <lastmod>2022-03-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.rediyo.cn/tags/Hexo/</loc>
-    <lastmod>2022-03-16</lastmod>
+    <lastmod>2022-03-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.rediyo.cn/tags/%E7%94%B5%E5%BD%B1/</loc>
-    <lastmod>2022-03-16</lastmod>
+    <lastmod>2022-03-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.rediyo.cn/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
-    <lastmod>2022-03-16</lastmod>
+    <lastmod>2022-03-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.rediyo.cn/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/</loc>
-    <lastmod>2022-03-16</lastmod>
+    <lastmod>2022-03-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -140,35 +140,35 @@
   
   <url>
     <loc>https://www.rediyo.cn/categories/Hive/</loc>
-    <lastmod>2022-03-16</lastmod>
+    <lastmod>2022-03-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.rediyo.cn/categories/%E6%97%A5%E5%BF%97/</loc>
-    <lastmod>2022-03-16</lastmod>
+    <lastmod>2022-03-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.rediyo.cn/categories/%E5%BD%B1%E8%A7%86/</loc>
-    <lastmod>2022-03-16</lastmod>
+    <lastmod>2022-03-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.rediyo.cn/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
-    <lastmod>2022-03-16</lastmod>
+    <lastmod>2022-03-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.rediyo.cn/categories/%E5%B0%8F%E6%8A%80%E5%B7%A7/</loc>
-    <lastmod>2022-03-16</lastmod>
+    <lastmod>2022-03-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
