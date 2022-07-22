@@ -20,17 +20,17 @@
 
 <script class="next-config" data-name="main" type="application/json">{"hostname":"www.rediyo.cn","root":"/","images":"/images","scheme":"Gemini","darkmode":false,"version":"8.10.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
 
-  <meta name="description" content="1.加入豆瓣组件给博客添加豆瓣书架功能 | madcoding’s blog (mad-coding.cn)">
+  <meta name="description" content="加入豆瓣组件给博客添加豆瓣书架功能 | madcoding’s blog (mad-coding.cn)">
 <meta property="og:type" content="website">
 <meta property="og:title" content="站点更新日志-1">
 <meta property="og:url" content="https://www.rediyo.cn/%E6%97%A5%E5%BF%97/2022/a4c07a100278/">
 <meta property="og:site_name" content="RediYo&#39;s Blog">
-<meta property="og:description" content="1.加入豆瓣组件给博客添加豆瓣书架功能 | madcoding’s blog (mad-coding.cn)">
+<meta property="og:description" content="加入豆瓣组件给博客添加豆瓣书架功能 | madcoding’s blog (mad-coding.cn)">
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://www.rediyo.cn/%E6%97%A5%E5%BF%97/2022/a4c07a100278/image-20220214003858674.png">
 <meta property="og:image" content="https://www.rediyo.cn/%E6%97%A5%E5%BF%97/2022/a4c07a100278/image-20220216135348319.png">
 <meta property="article:published_time" content="2022-02-13T16:35:15.000Z">
-<meta property="article:modified_time" content="2022-07-12T07:49:44.475Z">
+<meta property="article:modified_time" content="2022-07-22T02:40:00.776Z">
 <meta property="article:author" content="RediYo">
 <meta property="article:tag" content="Hexo">
 <meta name="twitter:card" content="summary">
@@ -155,7 +155,7 @@
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#1-%E5%8A%A0%E5%85%A5%E8%B1%86%E7%93%A3%E7%BB%84%E4%BB%B6"><span class="nav-number">1.</span> <span class="nav-text">1.加入豆瓣组件</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#2-%E8%B1%86%E7%93%A3%E7%BB%84%E4%BB%B6%E4%B8%8EPjax%E5%86%B2%E7%AA%81"><span class="nav-number">2.</span> <span class="nav-text">2.豆瓣组件与Pjax冲突</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#3-%E5%8D%87%E7%BA%A7%E4%BA%86Hexo-next%E4%B8%BB%E9%A2%98"><span class="nav-number">3.</span> <span class="nav-text">3.升级了Hexo next主题</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#4-%E6%B7%BB%E5%8A%A0Waline%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6"><span class="nav-number">4.</span> <span class="nav-text">4.添加Waline评论插件</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#5-hexo%E7%9A%84next%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E6%90%9C%E7%B4%A2%E5%8A%9F%E8%83%BD"><span class="nav-number">5.</span> <span class="nav-text">5.hexo的next主题添加搜索功能</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#6-github-pages-%E6%94%B9%E4%B8%BA%E9%83%A8%E7%BD%B2%E5%88%B0vercel"><span class="nav-number">6.</span> <span class="nav-text">6.github pages 改为部署到vercel</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#7-%E5%8F%96%E6%B6%88%E8%B1%86%E7%93%A3%E7%BB%84%E4%BB%B6%E5%BC%80%E5%90%AFPjax"><span class="nav-number">7.</span> <span class="nav-text">7.取消豆瓣组件开启Pjax</span></a></li></ol></div>
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%8A%A0%E5%85%A5%E8%B1%86%E7%93%A3%E7%BB%84%E4%BB%B6"><span class="nav-number">1.</span> <span class="nav-text">加入豆瓣组件</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E8%B1%86%E7%93%A3%E7%BB%84%E4%BB%B6%E4%B8%8EPjax%E5%86%B2%E7%AA%81"><span class="nav-number">2.</span> <span class="nav-text">豆瓣组件与Pjax冲突</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%8D%87%E7%BA%A7%E4%BA%86Hexo-next%E4%B8%BB%E9%A2%98"><span class="nav-number">3.</span> <span class="nav-text">升级了Hexo next主题</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%B7%BB%E5%8A%A0Waline%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6"><span class="nav-number">4.</span> <span class="nav-text">添加Waline评论插件</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#hexo%E7%9A%84next%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E6%90%9C%E7%B4%A2%E5%8A%9F%E8%83%BD"><span class="nav-number">5.</span> <span class="nav-text">hexo的next主题添加搜索功能</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#github-pages-%E6%94%B9%E4%B8%BA%E9%83%A8%E7%BD%B2%E5%88%B0vercel"><span class="nav-number">6.</span> <span class="nav-text">github pages 改为部署到vercel</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%8F%96%E6%B6%88%E8%B1%86%E7%93%A3%E7%BB%84%E4%BB%B6%E5%BC%80%E5%90%AFPjax"><span class="nav-number">7.</span> <span class="nav-text">取消豆瓣组件开启Pjax</span></a></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -259,7 +259,7 @@
         <i class="far fa-calendar-check"></i>
       </span>
       <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2022-07-12 15:49:44" itemprop="dateModified" datetime="2022-07-12T15:49:44+08:00">2022-07-12</time>
+      <time title="修改时间：2022-07-22 10:40:00" itemprop="dateModified" datetime="2022-07-22T10:40:00+08:00">2022-07-22</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -303,23 +303,23 @@
     
     
     <div class="post-body" itemprop="articleBody">
-        <h1 id="1-加入豆瓣组件"><a href="#1-加入豆瓣组件" class="headerlink" title="1.加入豆瓣组件"></a>1.加入豆瓣组件</h1><p><a target="_blank" rel="noopener" href="https://www.mad-coding.cn/2019/08/09/%E7%BB%99%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E8%B1%86%E7%93%A3%E4%B9%A6%E6%9E%B6%E5%8A%9F%E8%83%BD/">给博客添加豆瓣书架功能 | madcoding’s blog (mad-coding.cn)</a></p>
+        <h1 id="加入豆瓣组件"><a href="#加入豆瓣组件" class="headerlink" title="加入豆瓣组件"></a>加入豆瓣组件</h1><p><a target="_blank" rel="noopener" href="https://www.mad-coding.cn/2019/08/09/%E7%BB%99%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E8%B1%86%E7%93%A3%E4%B9%A6%E6%9E%B6%E5%8A%9F%E8%83%BD/">给博客添加豆瓣书架功能 | madcoding’s blog (mad-coding.cn)</a></p>
 <p><img src="/%E6%97%A5%E5%BF%97/2022/a4c07a100278/image-20220214003858674.png" alt="image-20220214003858674"></p>
 <span id="more"></span>
 
-<h1 id="2-豆瓣组件与Pjax冲突"><a href="#2-豆瓣组件与Pjax冲突" class="headerlink" title="2.豆瓣组件与Pjax冲突"></a>2.豆瓣组件与Pjax冲突</h1><p>开启Pjax后豆瓣组件会显示异常</p>
+<h1 id="豆瓣组件与Pjax冲突"><a href="#豆瓣组件与Pjax冲突" class="headerlink" title="豆瓣组件与Pjax冲突"></a>豆瓣组件与Pjax冲突</h1><p>开启Pjax后豆瓣组件会显示异常</p>
 <p>不开启Pjax，APlayer无法实现全局播放</p>
-<h1 id="3-升级了Hexo-next主题"><a href="#3-升级了Hexo-next主题" class="headerlink" title="3.升级了Hexo next主题"></a>3.升级了Hexo next主题</h1><p>7.8.0 升级到 8.10.0</p>
+<h1 id="升级了Hexo-next主题"><a href="#升级了Hexo-next主题" class="headerlink" title="升级了Hexo next主题"></a>升级了Hexo next主题</h1><p>7.8.0 升级到 8.10.0</p>
 <p><a target="_blank" rel="noopener" href="https://www.techgrow.cn/posts/d1f06120.html">Hexo 与 Next 版本升级教程 | Clay 的技术博客 (techgrow.cn)</a></p>
-<h1 id="4-添加Waline评论插件"><a href="#4-添加Waline评论插件" class="headerlink" title="4.添加Waline评论插件"></a>4.添加Waline评论插件</h1><p>遇到跨域问题（已解决）：</p>
+<h1 id="添加Waline评论插件"><a href="#添加Waline评论插件" class="headerlink" title="添加Waline评论插件"></a>添加Waline评论插件</h1><p>遇到跨域问题（已解决）：</p>
 <p><img src="/%E6%97%A5%E5%BF%97/2022/a4c07a100278/image-20220216135348319.png" alt="image-20220216135348319"></p>
 <p><a target="_blank" rel="noopener" href="https://waline.js.org/guide/get-started.html#leancloud-%E8%AE%BE%E7%BD%AE-%E6%95%B0%E6%8D%AE%E5%BA%93">快速上手 | Waline</a></p>
 <p>其实是LeanCloud我之前创建的是国内版，应该创建国际版，严格按照上面链接所述过程就可以了！</p>
-<h1 id="5-hexo的next主题添加搜索功能"><a href="#5-hexo的next主题添加搜索功能" class="headerlink" title="5.hexo的next主题添加搜索功能"></a>5.hexo的next主题添加搜索功能</h1><p>升级了next主题后，遇到了问题，解决如下：</p>
+<h1 id="hexo的next主题添加搜索功能"><a href="#hexo的next主题添加搜索功能" class="headerlink" title="hexo的next主题添加搜索功能"></a>hexo的next主题添加搜索功能</h1><p>升级了next主题后，遇到了问题，解决如下：</p>
 <p><a target="_blank" rel="noopener" href="https://blog.csdn.net/weixin_45877759/article/details/107141789">hexo的next主题添加搜索功能_杂货店的阿猿的博客-CSDN博客_hexo next搜索</a></p>
-<h1 id="6-github-pages-改为部署到vercel"><a href="#6-github-pages-改为部署到vercel" class="headerlink" title="6.github pages 改为部署到vercel"></a>6.github pages 改为部署到vercel</h1><p>主要是为了解决百度收录问题</p>
+<h1 id="github-pages-改为部署到vercel"><a href="#github-pages-改为部署到vercel" class="headerlink" title="github pages 改为部署到vercel"></a>github pages 改为部署到vercel</h1><p>主要是为了解决百度收录问题</p>
 <p>参考：<a target="_blank" rel="noopener" href="https://zhuanlan.zhihu.com/p/111773896">如何让百度收录 GitHub Pages 个人博客 - 知乎 (zhihu.com)</a></p>
-<h1 id="7-取消豆瓣组件开启Pjax"><a href="#7-取消豆瓣组件开启Pjax" class="headerlink" title="7.取消豆瓣组件开启Pjax"></a>7.取消豆瓣组件开启Pjax</h1><p>最终还是决定取消豆瓣组件开启Pjax，首先因为豆瓣组件的效果有点欠缺，功能上来说也不方便，我看了上百部电影，也不太好查找；其次开启豆瓣组件后，pjax再开启会冲突，豆瓣组件页面就会错乱，关闭pjax后每次听到音乐一半也比较难受，所以打算还是开启Pjax，巴适！</p>
+<h1 id="取消豆瓣组件开启Pjax"><a href="#取消豆瓣组件开启Pjax" class="headerlink" title="取消豆瓣组件开启Pjax"></a>取消豆瓣组件开启Pjax</h1><p>最终还是决定取消豆瓣组件开启Pjax，首先因为豆瓣组件的效果有点欠缺，功能上来说也不方便，我看了上百部电影，也不太好查找；其次开启豆瓣组件后，pjax再开启会冲突，豆瓣组件页面就会错乱，关闭pjax后每次听到音乐一半也比较难受，所以打算还是开启Pjax，巴适！</p>
 
     </div>
 
